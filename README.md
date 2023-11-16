@@ -10,19 +10,16 @@
 
 ### Abas da direita:
 
-1. Postagens
-  - Programação em R;
-  - Gráficos;
-  - Análises Estatísticas
-2. Atividades
-  - Beta Analítica;
-  - R-Ladies Natal;
-  - Serviços;
+1. Página Inicial
+  - Sobre o blog Paper Hoje
+2. Postagens
+  - Divulgação científica
+  - Resumos de artigos científicos
 3. Sobre
-  - Sobre Mim;
-  - Currículos;
+  - Sobre Mim
+  - Currículos
   - Contatos
 
 ### Aba da esquerda:
 
-Guia R/Página Inicial
+Paper Hoje/Home page
