@@ -1,0 +1,97 @@
+---
+title: "Currículos"
+image: jeanne.jpg
+about:
+  template: jolla
+  links:
+      - icon: envelope
+        href: mailto:jeanneraquelj1@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francojra/
+      - icon: github
+        href: https://github.com/francojra
+---
+
+<html>
+
+<body>
+
+<div style="text-align:left">
+
+<p>
+
+<h4>
+
+Ecologia: <img src="https://img.icons8.com/sf-regular/512/forest.png" alt="Jeanne-HTML" align="center" height="54" width="54"/>
+
+</p>
+
+</h4>
+
+</div>
+
+</body>
+
+</html>
+
+::: {style="text-align:left"}
+◾️[Currículo vitae](curriculum_vitae_jeanne_franco_pt.pdf)
+
+◾️[Resume](curriculum_vitae_jeanne_franco_en.pdf)
+
+◾️[Paper Jounal Restoration Ecology](paper_Jeanne_Gustavo_Gislene.pdf)
+:::
+
+<html>
+
+<body>
+
+<div style="text-align:left">
+
+<p>
+
+<h4>
+
+Programação em R e Python: <img src="https://img.icons8.com/ios-filled/512/monitor.png" alt="Jeanne-HTML" align="center" height="45" width="42"/>
+
+</p>
+
+</h4>
+
+</div>
+
+</body>
+
+</html>
+
+::: {style="text-align:left"}
+◾️[Currículo vitae](resume_jeanne_franco_pt.pdf)
+
+◾️[Resume](resume_jeanne_franco_en.pdf)
+:::
+
+<html>
+
+<body>
+
+<div style="text-align:left">
+
+<p>
+
+<h4>
+
+Currículo Lattes: <img src="https://img.icons8.com/ios-filled/512/student-female.png" alt="Jeanne-HTML" align="center" height="45" width="45"/>
+
+</p>
+
+</h4>
+
+</div>
+
+</body>
+
+</html>
+
+::: {style="text-align:left"}
+◾️[Currículo lattes](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4354736H7&tokenCaptchar=03AD1IbLAgLqHZa93ESpzQiAcU6HKy8efrio2hG-a4YK4rRcWnv6-Ua6PojAImdqkJzRV9hlUwNUb-cCKRD4ijgBnLtsayfoUPqvB5Bs1y7BIN7HdDtHSJGBKygdvK2haVvVOfEbY7TRsN8lcthMn4BFpIZzaV0jfgW0YrjTduQjXM9_re6H9tPr5aG840HbKDW6gDkWtncvjI9waZVIEl-7XPVnenmg2HmcUqCkxA_9zwm7dpgwWH9dbQIBu2m8Qs5tAz6KjP8JeIOMWsZTt_WZETDut50jOIcouwiQq8bZZsDk7xmbbUt05Kkxj1-tUS4RpEbstfhApHf7xWUA5k3jsnljQrOBMks3paWEzQW5vv4Nx7YoedCZ7gV3hdasU3HEcL6_HrkKJa1SXyK0PRVqlGcwV_1CPZbRG4p8dYmKXeWX6y1vtA-iBQ4iQZ2bfN2nHZo3LjIB9nTv9OV-7JuxvxJk6ixRegg0JPswCNPkdgkPuoNX6d3dRZ9XHfxYBushb2Z3BhhI8hhpz21dISFciPRMuCRiCdZw)
+:::

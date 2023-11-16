@@ -1,0 +1,64 @@
+---
+title: "Contatos"
+image: jeanne.jpg
+about:
+  template: jolla
+---
+
+<html>
+
+<body>
+
+<p>
+
+<h4>[E-mail](mailto:jeanneraquelj1@gmail.com) <img src="https://img.icons8.com/ios-filled/512/apple-mail.png" alt="Jeanne-HTML" align="center" height="45" width="45"/></h4>
+
+</p>
+
+</body>
+
+</html>
+
+<html>
+
+<body>
+
+<div>
+
+<p>
+
+<h4>
+
+[LinkedIn](https://www.linkedin.com/in/francojra/) <img src="https://img.icons8.com/ios-glyphs/512/linkedin-circled.png" alt="Jeanne-HTML" align="center" height="45" width="45"/>
+
+</p>
+
+</h4>
+
+</div>
+
+</body>
+
+</html>
+
+<html>
+
+<body>
+
+<div>
+
+<p>
+
+<h4>
+
+[GitHub](https://github.com/francojra) <img src="https://img.icons8.com/ios-glyphs/512/github.png" alt="Jeanne-HTML" align="center" height="45" width="45"/>
+
+</p>
+
+</h4>
+
+</div>
+
+</body>
+
+</html>

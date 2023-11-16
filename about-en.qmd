@@ -1,0 +1,27 @@
+---
+title: "About me"
+image: jeanne.jpg
+about:
+  template: jolla
+  links:
+      - icon: envelope
+        href: mailto:jeanneraquelj1@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francojra/
+      - icon: github
+        href: https://github.com/francojra
+---
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="about-en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+:::
+
+</center>
+
+Hello, my name is Jeanne Franco! I am graduated in Ecology, Master in Forest Sciences and PhD in Ecology from the [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/). During my undergraduate and doctoral studies I acquired experience evaluating the effect of native tree species diversity and the effect of herbaceous species on the ecological restoration of degraded semi-arid environments. During my master's degree I carried out field investigations to evaluate the natural regeneration of tree species in a mangrove area.
+
+I am a collaborator at [Beta Analítica](https://betaanalitica.com.br/), a company with experts in data processing, statistical analysis and R programming, helping university students, individuals and corporate public. I am also a co-organizer of [R-Ladies de Natal](https://rladies.org/), an organization with the mission of promoting gender diversity through meetings to disseminate knowledge of the R language.
+
+I am interested in restoration ecology, plant ecology, invasive exotic species, recovery of degraded areas, data science with R Software, scientific outreach and artwork of painting and drawing.

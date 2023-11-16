@@ -1,0 +1,60 @@
+project:
+  type: website
+
+website:
+  site-url: https://running-r.quarto.pub
+  google-analytics:
+    tracking-id: "G-DPJZ1QC6J5"
+  open-graph: true
+  favicon: trevo.png
+  page-footer:
+    left: "Blog feito com 🖤 e [Quarto](https://quarto.org/), por Jeanne Franco."
+    right: 
+      - icon: envelope
+        href: mailto:jeanneraquelj1@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francojra/
+      - icon: github
+        href: https://github.com/francojra
+  page-navigation: true
+  title: "Paper Hoje"
+  navbar:
+    right:
+      - text: Página Inicial
+        menu:
+          - pagina_inicial.qmd
+      - text: Postagens
+        menu: 
+          - index.qmd
+          - resumos.qmd
+      - text: Sobre
+        menu: 
+          - about.qmd
+          - formacao.qmd
+          - contact.qmd
+format:
+  html:
+    smooth-scroll: true
+    theme: sketchy
+      #light: [pulse,custom.scss] # Tema modo claro
+      #dark:  [cyborg,custom.scss] # Tema modo escuro
+    css: styles.css
+    link-external-newwindow: true
+    toc: true
+    citations-hover: true
+    footnotes-hover: true
+
+editor: visual
+
+comments:
+  utterances:
+    theme: github-dark-orange
+    repo: francojra/meu_blog_com_quarto
+      
+  
+#giscus:
+ #   repo: francojra/meu_blog_com_quarto
+  #  language: pt
+   # mapping: title
+    #theme: dark_high_contrast
+    

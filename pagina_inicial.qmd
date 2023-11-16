@@ -1,0 +1,10 @@
+---
+title: "Sobre o blog Paper Hoje"
+page-layout: full
+title-block-banner: true
+toc: true
+---
+
+Blog Paper Hoje
+
+O blog Paper Hoje foi criado por mim, com o propósito de divulgar diversos temas científicos atuais e fazer resumos sobre artigos recentes das principais revistas científicas do mundo.

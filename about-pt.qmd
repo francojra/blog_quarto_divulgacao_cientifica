@@ -1,0 +1,27 @@
+---
+title: "Sobre mim"
+image: jeanne.jpg
+about:
+  template: jolla
+  links:
+      - icon: envelope
+        href: mailto:jeanneraquelj1@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francojra/
+      - icon: github
+        href: https://github.com/francojra
+---
+
+<center>
+
+::: {.btn-group role="group" aria-label="About"}
+<a href="about-pt.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">Português</button></a> <a href="about-en.html"> <button type="button" class="btn btn-primary me-md-2 btn-sm">English</button></a> <a href="about-es.html"><button type="button" class="btn btn-primary me-md-2 btn-sm">Español</button></a>
+:::
+
+</center>
+
+Olá, me chamo Jeanne Franco! Sou graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/). Durante a graduação e doutorado adquiri experiência avaliando o efeito da diversidade de espécies nativas arbóreas e efeito de espécies herbáceas na restauração ecológica de ambientes semiáridos degradados. Durante o mestrado realizei investigações de campo para avaliar a regeneração natural de espécies arbóreas em uma área de manguezal.
+
+Sou colaboradora da [Beta Analítica](https://betaanalitica.com.br/), uma empresa que conta com especialistas em processamento de dados, análises estatísticas e programação em R, auxiliando estudantes universitários, pessoas físicas e público empresarial. Também sou coorganizadora da [R-Ladies de Natal](https://rladies.org/), uma organização com a missão de promover a diversidade de gêneros através de encontros para disseminação do conhecimento da linguagem R.
+
+Tenho interesse em ecologia da restauração, ecologia vegetal, invasão de espécies exóticas, recuperação de áreas degradadas, ciências de dados com o Software R, divulgação científica e trabalhos artísticos de pinturas e desenhos.
