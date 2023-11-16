@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://running-r.quarto.pub
+  site-url: https://paperhoje.quarto.pub
   google-analytics:
     tracking-id: "G-DPJZ1QC6J5"
   open-graph: true
@@ -49,7 +49,7 @@ editor: visual
 comments:
   utterances:
     theme: github-dark-orange
-    repo: francojra/meu_blog_com_quarto
+    repo: francojra/blog_quarto_divulgacao_cientifica
       
   
 #giscus:
