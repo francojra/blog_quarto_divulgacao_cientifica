@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 75672d12-5078-47be-a840-e347119036af
+      url: 'https://running-r.quarto.pub/paper-em-dia'
