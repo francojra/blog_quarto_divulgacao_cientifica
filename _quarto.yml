@@ -9,13 +9,6 @@ website:
   favicon: trevo.png
   page-footer:
     left: "Blog feito com 🖤 e [Quarto](https://quarto.org/), por Jeanne Franco."
-    right: 
-      - icon: envelope
-        href: mailto:jeanneraquelj1@gmail.com
-      - icon: linkedin
-        href: https://www.linkedin.com/in/francojra/
-      - icon: github
-        href: https://github.com/francojra
   page-navigation: true
   title: "Paper em dia"
   navbar:
@@ -28,6 +21,12 @@ website:
         menu: 
           - about.qmd
           - contact.qmd
+      - icon: envelope
+        href: mailto:jfranco.jraf@gmail.com
+      - icon: linkedin
+        href: https://www.linkedin.com/in/francojra/
+      - icon: github
+        href: https://github.com/francojra
 format:
   html:
     smooth-scroll: true
