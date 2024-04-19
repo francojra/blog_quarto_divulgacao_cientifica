@@ -20,8 +20,8 @@ about:
 
 </center>
 
-Olá, me chamo Jeanne Franco! Sou graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/). Durante a graduação e doutorado adquiri experiência avaliando o efeito da diversidade de espécies nativas arbóreas e efeito de espécies herbáceas na restauração ecológica de ambientes semiáridos degradados. Durante o mestrado realizei investigações de campo para avaliar a regeneração natural de espécies arbóreas em uma área de manguezal.
+Oi, me chamo Jeanne Franco! Sou graduada em Ecologia, mestra em Ciências Florestais e doutora em Ecologia pela [Universidade Federal do Rio Grande do Norte](https://www.ufrn.br/). Durante a graduação e doutorado adquiri experiência avaliando o efeito da diversidade de espécies nativas arbóreas e efeito de espécies herbáceas na restauração ecológica de ambientes semiáridos degradados. Durante o mestrado realizei investigações de campo para avaliar a regeneração natural de espécies arbóreas em uma área de manguezal.
 
-Sou colaboradora da [Beta Analítica](https://betaanalitica.com.br/), uma empresa que conta com especialistas em processamento de dados, análises estatísticas e programação em R, auxiliando estudantes universitários, pessoas físicas e público empresarial. Também sou coorganizadora da [R-Ladies de Natal](https://rladies.org/), uma organização com a missão de promover a diversidade de gêneros através de encontros para disseminação do conhecimento da linguagem R.
+Atualmente, sou analista de dados na empresa [Beta Analítica](https://betaanalitica.com.br/) e também sou organizadora da comunidade [R-Ladies de Natal](https://rladies.org/), uma organização mundial sem fins lucrativos que tem a missão de promover a diversidade de gêneros e capacitações sobre a linguagem R.
 
-Tenho interesse em ecologia da restauração, ecologia vegetal, invasão de espécies exóticas, recuperação de áreas degradadas, ciências de dados com o Software R, divulgação científica e trabalhos artísticos de pinturas e desenhos.
+Tenho interesse por diversas áreas do conhecimento, então criei esse blog para divulgar artigos e contribuições científicas de alto impacto. Espero que que gostem da leitura e obtenham bons conhecimentos.
