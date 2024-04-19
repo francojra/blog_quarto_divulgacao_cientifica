@@ -1,0 +1,14 @@
+---
+title: "Histórias de grandes cientistas"
+listing:
+  contents: posts-documentarios
+  sort: "date desc"
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+  page-size: 4
+page-layout: full
+title-block-banner: true
+lang: pt
+---

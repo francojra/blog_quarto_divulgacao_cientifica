@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  site-url: https://paperhoje.quarto.pub
+  site-url: https://paperemdia.quarto.pub
   google-analytics:
     tracking-id: "G-DPJZ1QC6J5"
   open-graph: true
