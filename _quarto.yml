@@ -17,12 +17,9 @@ website:
       - icon: github
         href: https://github.com/francojra
   page-navigation: true
-  title: "Paper Hoje"
+  title: "Paper em dia"
   navbar:
     right:
-      - text: Página Inicial
-        menu:
-          - pagina_inicial.qmd
       - text: Postagens
         menu: 
           - index.qmd
@@ -30,7 +27,6 @@ website:
       - text: Sobre
         menu: 
           - about.qmd
-          - formacao.qmd
           - contact.qmd
 format:
   html:
