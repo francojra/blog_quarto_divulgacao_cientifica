@@ -5,7 +5,7 @@ about:
   template: jolla
   links:
       - icon: envelope
-        href: mailto:jeanneraquelj1@gmail.com
+        href: mailto:jfranco.jraf@gmail.com
       - icon: linkedin
         href: https://www.linkedin.com/in/francojra/
       - icon: github
