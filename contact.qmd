@@ -11,7 +11,7 @@ about:
 
 <p>
 
-<h4>[E-mail](mailto:jeanneraquelj1@gmail.com) <img src="https://img.icons8.com/ios-filled/512/apple-mail.png" alt="Jeanne-HTML" align="center" height="45" width="45"/></h4>
+<h4>[E-mail](mailto:jfranco.jraf@gmail.com) <img src="https://img.icons8.com/ios-filled/512/apple-mail.png" alt="Jeanne-HTML" align="center" height="45" width="45"/></h4>
 
 </p>
 
