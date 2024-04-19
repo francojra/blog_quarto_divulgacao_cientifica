@@ -21,6 +21,9 @@ website:
         menu: 
           - about.qmd
           - contact.qmd
+      - text: Documentários
+        menu: 
+          - documentarios.qmd
       - icon: envelope
         href: mailto:jfranco.jraf@gmail.com
       - icon: linkedin
