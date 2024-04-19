@@ -10,16 +10,15 @@
 
 ### Abas da direita:
 
-1. Página Inicial
-  - Sobre o blog Paper Hoje
-2. Postagens
+1. Postagens
   - Divulgação científica
   - Resumos de artigos científicos
+2. Documentários
+  - Histórias de grandes cientistas
 3. Sobre
-  - Sobre Mim
-  - Currículos
+  - Sobre a autora
   - Contatos
 
 ### Aba da esquerda:
 
-Paper Hoje/Home page
+Paper em dia/Home page
