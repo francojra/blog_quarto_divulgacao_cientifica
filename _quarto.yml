@@ -26,7 +26,7 @@ website:
           - resumos.qmd
       - text: Documentários
         menu: 
-          - documentarios.qmd
+          - charles_darwin.qmd
       - text: Sobre
         menu: 
           - about.qmd
