@@ -1,7 +1,7 @@
 ---
-title: "Charles Darwin"
+title: "Curso de Escrita Científica - Valtencir Zucolotto"
 listing:
-  contents: posts-bibliografias
+  contents: posts-escrita_cientifica
   sort: "date desc"
   type: default
   categories: true
