@@ -24,9 +24,10 @@ website:
         menu: 
           - index.qmd
           - resumos.qmd
-      - text: Documentários
+      - text: Bibliografias de cientistas
         menu: 
           - charles_darwin.qmd
+          - marie_curie.qmd
       - text: Sobre
         menu: 
           - about.qmd
