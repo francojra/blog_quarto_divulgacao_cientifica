@@ -24,6 +24,7 @@ website:
         menu: 
           - index.qmd
           - resumos.qmd
+          - escrita_cientifica.qmd
       - text: Bibliografias de cientistas
         menu: 
           - charles_darwin.qmd
