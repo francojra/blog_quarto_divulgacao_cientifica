@@ -1,7 +1,7 @@
 ---
 title: "Charles Darwin"
 listing:
-  contents: posts-bibliografias
+  contents: posts-biografias
   sort: "date desc"
   type: default
   categories: true

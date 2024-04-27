@@ -1,5 +1,5 @@
 ---
-title: "Curso de Escrita Científica - Valtencir Zucolotto"
+title: "Redação Científica"
 listing:
   contents: posts-escrita_cientifica
   sort: "date desc"
