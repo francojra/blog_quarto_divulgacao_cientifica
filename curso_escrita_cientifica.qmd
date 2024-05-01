@@ -44,3 +44,11 @@ Agora, irei trazer as principais informações do curso em forma de bullet point
       style id5 fill:#F7D060,stroke:#333,stroke-width:3px
       style id6 fill:#F7D060,stroke:#333,stroke-width:3px
 ```
+
+## Por que publicar?
+
+-   A partir do método científico ordenado pela lógica e implementação da pesquisa, nós temos um avanço científico e tecnológico na área.
+
+-   Os cientistas procuram avanços nos artigos científicos internacionais.
+
+-   A atividade fim do cientista não é publicar artigo, é trazer avanços para área, o artigo é apenas o veículo.
