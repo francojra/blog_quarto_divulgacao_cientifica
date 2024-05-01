@@ -16,7 +16,7 @@ Outras informações sobre o professor Dr. Valtencir Zicolotto, seus cursos, eve
 
 Agora irei trazer as principais informações do curso em forma de bullet points para melhor compreensão das ideias.
 
-# Importância do cientista
+## Importância do cientista
 
 -   Flexibilidade na escolha da linha de pesquisa, possibilidade de mudança de área.
 -   Trabalhar com o que gosta faz diferença.
@@ -25,19 +25,22 @@ Agora irei trazer as principais informações do curso em forma de bullet points
 -   O importante é fazer ciência de alto impacto e não focar em artigos de alto impacto.
 -   A ciência de alto impacto depende de grandes ideias.
 
-# Processo de pesquisa
-
--   Motivação e esforço faz parte do processo e é importante.
+## Processo de pesquisa
 
 ```{mermaid}
 
     flowchart LR
 
-      id1(Ideias) -.-> id2(Projeto de pesquisa)
-      id3(Implementação da pesquisa) -.-> id4(Resultados)
+      id1(Ideias) --> id2(Projeto de pesquisa) 
+      id2(Projeto de pesquisa) --> id3(Implementação da  pesquisa)
+      id3(Implementação da pesquisa) --> id4(Resultados) 
+      id4(Resultados) --> id5(Novas ideias?)
+      id5(Novas ideias?) --> id6(Dissertação, tese, artigo, patentes)
       
-      style id1 fill:#98D8AA,stroke:#333,stroke-width:3px
+      style id1 fill:#F7D060,stroke:#333,stroke-width:3px
       style id2 fill:#F7D060,stroke:#333,stroke-width:3px
-      style id3 fill:#FF6D60,stroke:#333,stroke-width:3px
-      style id4 fill:#FF6D60,stroke:#333,stroke-width:3px
+      style id3 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id4 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id5 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id6 fill:#F7D060,stroke:#333,stroke-width:3px
 ```
