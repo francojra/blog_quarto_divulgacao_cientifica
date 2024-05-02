@@ -52,3 +52,55 @@ Agora, irei trazer as principais informações do curso em forma de bullet point
 -   Os cientistas procuram avanços nos artigos científicos internacionais.
 
 -   A atividade fim do cientista não é publicar artigo, é trazer avanços para área, o artigo é apenas o veículo.
+
+## **Características da escrita científica**
+
+-   Audiência: texto dirigido para quem vai ler seu artigo. Decidir se a revista será ampla ou específica.
+
+-   Clareza e coesão: o texto científico deve ser claro. Passar a mensagem científica de maneira mais rápida para o leitor (concisão).
+
+-   Citações e referências.
+
+-   Não tem espaço para suspense.
+
+## **Estrutura de um artigo científico**
+
+1.  Título, autores e afiliações;
+
+2.  Abstract;
+
+3.  Introdução;
+
+4.  Metodologia;
+
+5.  Resultados;
+
+6.  Discussão;
+
+7.  Conclusões.
+
+As seções de abstract e conclusões são as seções mais gerais do artigo, enquanto introdução e discussão são as seções intermediárias, a metodologia e os resultados são as seções mais específicas de um artigo.
+
+## **Detalhes de cada seção**
+
+### **Título:**
+
+Não pode ser muito longo, verificar se o título é muito geral ou muito específico, verificar se no título aparece o principal resultado ou avanço da pesquisa. Colocar resultados chaves no título é uma
+excelente estratégia (afrimação com verbos: aumenta, diminui, facilita, etc.). Evitar palavras da metodologia, caso o método não seja o foco do trabalho, assim como evitar palavras informais.
+
+### **Abstract:**
+
+Um parágrafo (150 a 250 palavras) com as principais informações. É uma das seções mais importantes porque causa a primeira impressão que pode ser boa ou ruim. Apresenta a contextualização,
+lacunas de conhecimento (however, but, although), proposta (here, in this paper, in this article, in this investigation), metodologia, resultados e conclusões, ou seja, é um mini artigo. Importante a proposta do artigo estar relacionada com o gap de conhecimento.
+
+### **Introdução:** 
+
+Vocês deve fazer os seguintes questionamentos. Por que essa área da pesquis é importante? O que tem sido feito? O que ainda não foi feito? Por que seu estudo é importante? O que está sendo apresentado aqui? A introdução pode ser estruturada da seguinte forma: **1.** Contextualização; **2.** Estado da arte (revisão da literatura recente); **3.** Lacunas de conhecimento; **4.** Propósito (formulação de hipóteses).
+
+**1.  Contextualização:** apresenta o campo de pesquisa e a importância (justificativa) da área;
+
+**2.  Estado da arte:** apresentar bons e recentes artigos sobre o tema (termos: recentemente, nos últimos anos, etc.);
+
+**3.  Gap:** questões abertas, restrições e limitações;
+
+**4.  Propósito:** objetivos do seu projeto de pesquisa.
