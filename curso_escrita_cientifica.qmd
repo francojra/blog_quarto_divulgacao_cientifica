@@ -147,3 +147,22 @@ sua pesquisa para a área).
 -   Uma única ideia por frase e um único tema por parágrafo;
 
 -   Faça ligação entre as frases do parágrafo.
+
+## Sequência de redação sugerida
+
+```{mermaid}
+
+    flowchart TB
+
+      id1(Resultados) --> id2(Discussão) 
+      id2(Discussão) --> id3(Conclusão)
+      id3(Conclusão) --> id4(Metodologia) 
+      id4(Metodologia) --> id5(Introdução)
+      id5
+      
+      style id1 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id2 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id3 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id4 fill:#F7D060,stroke:#333,stroke-width:3px
+      style id4 fill:#F7D060,stroke:#333,stroke-width:3px
+```
