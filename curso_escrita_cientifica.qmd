@@ -85,15 +85,13 @@ As seções de abstract e conclusões são as seções mais gerais do artigo, en
 
 ### **Título:**
 
-Não pode ser muito longo, verificar se o título é muito geral ou muito específico, verificar se no título aparece o principal resultado ou avanço da pesquisa. Colocar resultados chaves no título é uma
-excelente estratégia (afrimação com verbos: aumenta, diminui, facilita, etc.). Evitar palavras da metodologia, caso o método não seja o foco do trabalho, assim como evitar palavras informais.
+Não pode ser muito longo, verificar se o título é muito geral ou muito específico, verificar se no título aparece o principal resultado ou avanço da pesquisa. Colocar resultados chaves no título é uma excelente estratégia (afrimação com verbos: aumenta, diminui, facilita, etc.). Evitar palavras da metodologia, caso o método não seja o foco do trabalho, assim como evitar palavras informais.
 
 ### **Abstract:**
 
-Um parágrafo (150 a 250 palavras) com as principais informações. É uma das seções mais importantes porque causa a primeira impressão que pode ser boa ou ruim. Apresenta a contextualização,
-lacunas de conhecimento (however, but, although), proposta (here, in this paper, in this article, in this investigation), metodologia, resultados e conclusões, ou seja, é um mini artigo. Importante a proposta do artigo estar relacionada com o gap de conhecimento.
+Um parágrafo (150 a 250 palavras) com as principais informações. É uma das seções mais importantes porque causa a primeira impressão que pode ser boa ou ruim. Apresenta a contextualização, lacunas de conhecimento (however, but, although), proposta (here, in this paper, in this article, in this investigation), metodologia, resultados e conclusões, ou seja, é um mini artigo. Importante a proposta do artigo estar relacionada com o gap de conhecimento.
 
-### **Introdução:** 
+### **Introdução:**
 
 Vocês deve fazer os seguintes questionamentos. Por que essa área da pesquis é importante? O que tem sido feito? O que ainda não foi feito? Por que seu estudo é importante? O que está sendo apresentado aqui? A introdução pode ser estruturada da seguinte forma: **1.** Contextualização; **2.** Estado da arte (revisão da literatura recente); **3.** Lacunas de conhecimento; **4.** Propósito (formulação de hipóteses).
 
@@ -104,3 +102,15 @@ Vocês deve fazer os seguintes questionamentos. Por que essa área da pesquis é
 **3.  Gap:** questões abertas, restrições e limitações;
 
 **4.  Propósito:** objetivos do seu projeto de pesquisa.
+
+### Resultados e discussão:
+
+Seção mais importante do artigo. Presença de materiais ilustrativos (figuras, imagens, tabelas, gráficos), números e texto. Deve haver figuras de qualidade, análises de dados e estatística. Relação muito próxima do propósito na introdução e os resultados.
+
+**1.  Background/importância:** antes de apresentar os resultados, é feita uma breve contextualização sobre a importância do estudo;
+
+**2.  Descrição dos gráficos e tabelas:** descrever as figuras, mostrando as tendências, mudanças, etc.;
+
+**3.  Interpretação:** como uma variável afetou outra? As relações foram significativas? Qual a magnitude das mudanças?;
+
+**4.  Comparações:** comparar com a literarura, se cabível. Os estudos apresentaram resultados diferentes ou semelhantes?
