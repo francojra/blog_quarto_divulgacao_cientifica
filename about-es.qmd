@@ -24,4 +24,4 @@ Hola, mi nombre es Jeanne Franco! Soy licenciada en Ecología, maestría en Cien
 
 Actualmente soy analista de datos en la empresa [Beta Analítica](https://betaanalitica.com.br/) y también soy organizadora de la comunidad [R-Ladies de Natal](https://rladies.org/), una organización sin fines de lucro cuya misión es promover la diversidad de género y la formación en el lenguaje R. usando R para ciencia de datos con experiencia en producción de gráficos, producción de mapas y análisis estadístico básico y avanzado.
 
-Estoy interesado en varias áreas del conocimiento, incluyendo psicología, ciencias sociales, medio ambiente y neurociencias. Por eso, decidí crear este blog para difundir artículos y aportes científicos de alto impacto. Espero que disfrutes leyendo y adquieras buenos conocimientos.
+Estoy interesado en varias áreas del conocimiento, incluyendo psicología, ciencias sociales, medio ambiente y neurociencias. Por eso, decidí crear este blog denominado 'Paper em dia' para difundir artículos y aportes científicos de alto impacto. Espero que disfrutes leyendo y adquieras buenos conocimientos.

@@ -24,4 +24,4 @@ Hi, my name is Jeanne Franco! I have a degree in Ecology, a master's degree in F
 
 Currently, I am a data analyst at the company [Beta Analítica](https://betaanalitica.com.br/) and I am also an organizer of the [R-Ladies de Natal](https://rladies.org/) community, a non-profit organization whose mission is to promote gender diversity and training in the R language. I am enthusiastic about using R for data science with experience in producing graphs, producing maps and basic and advanced statistical analysis.
 
-I am interested in several areas of knowledge, including psychology, social sciences, environment and neurosciences. Therefore, I decided to create this blog to disseminate high-impact scientific articles and contributions. I hope you enjoy reading and gain good knowledge.
+I am interested in several areas of knowledge, including psychology, social sciences, environment and neurosciences. Therefore, I decided to create this blog named 'Paper em dia' to disseminate high-impact scientific articles and contributions. I hope you enjoy reading and gain good knowledge.
