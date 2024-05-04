@@ -149,15 +149,15 @@ Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiz
 
 ## Sequência de redação sugerida
 
-```{mermaid}
+```{mermaid text-align: center}
 
     flowchart TB
 
-      id1(Resultados) --> id2(Discussão) 
-      id2(Discussão) --> id3(Conclusão)
-      id3(Conclusão) --> id4(Metodologia) 
-      id4(Metodologia) --> id5(Introdução)
-      id5(Introdução) --> id6(Resumo)
+      id1(1º Resultados) --> id2(2º Discussão) 
+      id2(3º Discussão) --> id3(4º Conclusão)
+      id3(5º Conclusão) --> id4(6º Metodologia) 
+      id4(7º Metodologia) --> id5(8º Introdução)
+      id5(9º Introdução) --> id6(10º Resumo)
       
       style id1 fill:#F7D060,stroke:#333,stroke-width:3px
       style id2 fill:#F7D060,stroke:#333,stroke-width:3px
