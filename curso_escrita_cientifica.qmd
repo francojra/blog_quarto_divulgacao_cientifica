@@ -166,3 +166,11 @@ Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiz
       style id5 fill:#F7D060,stroke:#333,stroke-width:3px
       style id6 fill:#F7D060,stroke:#333,stroke-width:3px
 ```
+
+## **Uso de IA para escrita de artigos científicos**
+
+-   O Chat-GPT pode ser eficiente quando você adiciona detalhes importantes na descrição da sua pergunta;
+
+-   O texto fornecido pelo Chat-GPT não deve ser copiado na íntegra, pode pegar a estrutura geral e deixar mais específico;
+
+-   Solicitar ideias disruptivas ao Chat-GPT pode ajudar na condução e publicação da pesquisa.
