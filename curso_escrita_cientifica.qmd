@@ -110,9 +110,9 @@ Vocês deve fazer os seguintes questionamentos: Por que essa área de pesquisa �
 
 ### Resultados e discussão:
 
-Seção mais importante do artigo. Presença de materiais ilustrativos (figuras, imagens, tabelas, gráficos), números e texto. Deve haver figuras de qualidade, análises de dados e estatística. Relação muito próxima do propósito na introdução e os resultados.
+Seção mais importante do artigo. Apresenta materiais ilustrativos como figuras, tabelas e gráficos, mais texto. Deve haver figuras de qualidade, análises de dados e estatística. Existe uma relação muito próxima entre o propósito apresentado na introdução e os resultados.
 
-**1.  Background/importância:** antes de apresentar os resultados, é feita uma breve contextualização sobre a importância do estudo;
+**1.  Background/importância:** antes de apresentar os resultados, é feita uma breve contextualização sobre a importância do estudo.;
 
 **2.  Descrição dos gráficos e tabelas:** descrever as figuras, mostrando as tendências, mudanças, etc.;
 
@@ -122,13 +122,13 @@ Seção mais importante do artigo. Presença de materiais ilustrativos (figuras,
 
 ### Conclusão:
 
-Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiza os resultados e descobertas mais importantes); **2.** Interpretação dos principais resultados (algumas entenças para explicar os resultados chaves); **3.** Contribuição para o campo de pesquisa (descreve as implicações e importância dos achados da sua pesquisa para a área).
+Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiza os resultados e descobertas mais importantes); **2.** Interpretação dos principais resultados (algumas sentenças para explicar os resultados chaves); **3.** Contribuição para o campo de pesquisa (descreve as implicações e importância dos achados da sua pesquisa para a área).
 
 ## **Dicas de redação**
 
 -   Evite sentenças longas;
 
--   Evite ambiguidade (margem para mais de uma interpretação, os pronomes - it, they, them - podem trazer ambiguidade);
+-   Evite ambiguidade que dá margem para mais de uma interpretação. Os pronomes 'it', 'they' e 'them' podem trazer ambiguidade;
 
 -   Evite redundâncias (o texto precisa ser conciso, direto e claro, deve reduzir o excesso de palavras irrelevantes. Ex.: "resultados obtidos", "ainda persiste", "definitivamente melhorou", "primeiro de tudo", "fundamentos básicos", "completamente eliminado", "bastante único", "muito similar", "introduziu a um novo", "nunca antes", "escolhas alternativas", "completamente cheio", "completamente vazio", etc.);
 
