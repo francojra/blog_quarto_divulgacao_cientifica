@@ -16,11 +16,11 @@ Outras informações sobre o professor Dr. Valtencir Zucolotto, seus cursos, eve
 
 A seguir, apresento as principais informações do curso em forma de bullet points para melhor compreensão das ideias.
 
-## Características e importância do cientista
+## Importância do cientista
 
--   O cientista pode ajudar a população e o desenvolvimento científico e tecnológico de um país a partir dos resultados das pesquisas;
+-   O cientista pode ajudar a população e o desenvolvimento de um país a partir dos resultados das pesquisas;
 
--   Entre as principais e boas características de um cientista estão a criatividade e a curiosidade;
+-   Entre as principais qualidades de um cientista estão a criatividade e a curiosidade;
 
 -   O cientista considera a importância de fazer ciência de alto impacto, e não foca em artigos de alto impacto;
 
@@ -64,7 +64,7 @@ A seguir, apresento as principais informações do curso em forma de bullet poin
 
 -   Clareza e coesão: o texto científico deve ser claro e passar a mensagem científica de maneira mais rápida para o leitor (concisão);
 
--   Citações e referências;
+-   Deve apresentar citações e referências;
 
 -   Não deve ter espaço para suspense.
 
