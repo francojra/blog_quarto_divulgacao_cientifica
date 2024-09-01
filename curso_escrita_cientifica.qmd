@@ -70,21 +70,21 @@ A seguir, apresento as principais informações do curso em forma de bullet poin
 
 ## **Estrutura de um artigo científico**
 
-1.  Título, autores e afiliações;
+1.  Título, autores e afiliações
 
-2.  Abstract;
+2.  Abstract
 
-3.  Introdução;
+3.  Introdução
 
-4.  Metodologia;
+4.  Metodologia
 
-5.  Resultados;
+5.  Resultados
 
-6.  Discussão;
+6.  Discussão
 
-7.  Conclusões.
+7.  Conclusões
 
-As seções de abstract e conclusões são as seções mais gerais do artigo, enquanto introdução e discussão são as seções intermediárias, a metodologia e os resultados são as seções mais específicas de um artigo.
+O Abstract e as Conclusões são as seções mais gerais do artigo, enquanto a Introdução e a Discussão são as seções intermediárias, a Metodologia e os Resultados são as seções mais específicas de um artigo.
 
 ## **Detalhes de cada seção**
 
