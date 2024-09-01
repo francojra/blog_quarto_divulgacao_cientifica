@@ -130,21 +130,21 @@ Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiz
 
 -   Evite ambiguidade que dá margem para mais de uma interpretação. Os pronomes 'it', 'they' e 'them' podem trazer ambiguidade;
 
--   Evite redundâncias (o texto precisa ser conciso, direto e claro, deve reduzir o excesso de palavras irrelevantes. Ex.: "resultados obtidos", "ainda persiste", "definitivamente melhorou", "primeiro de tudo", "fundamentos básicos", "completamente eliminado", "bastante único", "muito similar", "introduziu a um novo", "nunca antes", "escolhas alternativas", "completamente cheio", "completamente vazio", etc.);
+-   Evite redundâncias. O texto precisa ser conciso, direto e claro, deve reduzir o excesso de palavras irrelevantes. Exemplos: "resultados obtidos", "ainda persiste", "definitivamente melhorou", "primeiro de tudo", "fundamentos básicos", "completamente eliminado", "bastante único", "muito similar", "introduziu a um novo", "nunca antes", "escolhas alternativas", "completamente cheio", "completamente vazio", etc.;
 
--   Você deve colocar a ação no verbo:
+-   Você deve ser direto e colocar a ação no verbo:
 
     -   [Pior]{.underline}: A administração de dopamina produziu uma redução na frequência de convulsões.
 
     -   [Melhor]{.underline}: A administração de dopamina reduziu a frequência de convulsões.
 
-## **Tópico das frases e parágrafos**
+## **Parágrafos bem estruturados**
 
--   Tópico se refere ao que tem de mais importante em um parágrafo;
-
--   Saber quando terminar e iniciar um novo parágrafo;
+-   O tópico da primeira frase se refere ao que tem de mais importante em um parágrafo;
 
 -   Correlação entre tópico (palavra-chave) e a mensagem do parágrafo (verbo/estrutura do sujeito);
+
+-   Saber quando terminar e iniciar um novo parágrafo;
 
 -   Todo o restante do parágrafo deve ter relação com a mensagem principal da primeira frase;
 
