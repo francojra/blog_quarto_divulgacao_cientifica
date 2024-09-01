@@ -8,9 +8,9 @@ lang: pt
 
 Nesta postagem, apresento uma síntese do Curso de Outono em Escrita Científica realizado nos dias 17, 18, 24 e 25 de abril de 2024 pelo professor [Dr. Valtencir Zucolotto](https://www.linkedin.com/in/valtencir-zucolotto-a0ab3596/).
 
-Valtencir Zucolotto é professor titular do Instituto de física da USP de São Carlos, possui doutorado em Ciência e Engenharia de Materiais pela Universidade de São Paulo (2003) e coordena o grupo de pesquisa de Nanomedicina e Nanotoxicologia com aplicação nas áreas da saúde e do agronegócio. Zuzolotto foi professor Visitante na Universidade Joseph Fourier, Grenoble, França, em 2010. Atualmente, ele desenvolve e ministra cursos em Escrita Científica, já publicou mais de 128 artigos em revistas internacionais e 8 capítulos de livros.
+Valtencir Zucolotto é professor titular do Instituto de física da USP de São Carlos, possui doutorado em Ciência e Engenharia de Materiais pela Universidade de São Paulo (2003) e coordena o grupo de pesquisa de Nanomedicina e Nanotoxicologia com aplicação nas áreas da saúde e do agronegócio. Também foi professor Visitante na Universidade Joseph Fourier, Grenoble, França, em 2010. Atualmente, ele desenvolve e ministra cursos em Escrita Científica, já publicou mais de 128 artigos em revistas internacionais e 8 capítulos de livros.
 
-Outras informações sobre o professor Dr. Valtencir Zicolotto, seus cursos, eventos e materiais de estudo para download, você encontra [aqui](https://escritacientifica.com/en/index.html).
+Outras informações sobre o professor Dr. Valtencir Zucolotto, seus cursos, eventos e materiais de estudo para download, você encontra [aqui](https://escritacientifica.com/en/index.html).
 
 [![Professor Dr. Valtencir Zucolotto.](images/zucolotto.jpg){fig-align="center"}](lattes.cnpq.br/5768000922241088)
 
@@ -176,6 +176,6 @@ Começa do mais específico para o mais geral. **1.** Resultados chaves (enfatiz
 
 -   O Chat-GPT pode ser eficiente quando você adiciona detalhes importantes na descrição da sua pergunta;
 
--   O texto fornecido pelo Chat-GPT não deve ser copiado na íntegra, pode pegar a estrutura geral e deixar mais específico;
+-   O texto fornecido pelo Chat-GPT não deve ser copiado na íntegra, você pode usar a estrutura geral e deixar mais específico;
 
 -   Solicitar ideias disruptivas ao Chat-GPT pode ajudar na condução e publicação da pesquisa.
