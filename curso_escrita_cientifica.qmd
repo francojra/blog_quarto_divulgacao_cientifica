@@ -94,17 +94,17 @@ Não pode ser muito longo, verificar se o título é muito geral ou muito espec�
 
 ### **Abstract:**
 
-Um parágrafo (150 a 250 palavras) com as principais informações. É uma das seções mais importantes porque causa a primeira impressão que pode ser boa ou ruim. Apresenta a contextualização, lacunas de conhecimento (however, but, although), proposta (here, in this paper, in this article, in this investigation), metodologia, resultados e conclusões, ou seja, é um mini artigo. Importante a proposta do artigo estar relacionada com o gap de conhecimento.
+Um parágrafo com as principais informações (150 a 250 palavras). É uma das seções mais importantes porque causa a primeira impressão do seu artigo, que pode ser boa ou ruim. Apresenta a contextualização, lacunas de conhecimento (however, but, although), proposta (here, in this paper, in this article, in this investigation), metodologia, resultados e conclusões, ou seja, é um mini artigo. É importante a proposta do seu artigo estar relacionada com a lacuna de conhecimento.
 
 ### **Introdução:**
 
-Vocês deve fazer os seguintes questionamentos. Por que essa área da pesquis é importante? O que tem sido feito? O que ainda não foi feito? Por que seu estudo é importante? O que está sendo apresentado aqui? A introdução pode ser estruturada da seguinte forma: **1.** Contextualização; **2.** Estado da arte (revisão da literatura recente); **3.** Lacunas de conhecimento; **4.** Propósito (formulação de hipóteses).
+Vocês deve fazer os seguintes questionamentos: Por que essa área de pesquisa é importante? O que tem sido feito? O que ainda não foi feito? Por que seu estudo é importante? O que está sendo apresentado aqui? A introdução pode ser estruturada da seguinte forma: **1.** Contextualização; **2.** Estado da arte (revisão da literatura recente); **3.** Lacunas de conhecimento; **4.** Propósito (formulação de hipóteses).
 
 **1.  Contextualização:** apresenta o campo de pesquisa e a importância (justificativa) da área;
 
 **2.  Estado da arte:** apresentar bons e recentes artigos sobre o tema (termos: recentemente, nos últimos anos, etc.);
 
-**3.  Gap:** questões abertas, restrições e limitações;
+**3.  Lacuna:** questões abertas, restrições e limitações;
 
 **4.  Propósito:** objetivos do seu projeto de pesquisa.
 
