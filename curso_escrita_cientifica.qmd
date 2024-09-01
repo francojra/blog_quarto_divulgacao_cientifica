@@ -6,7 +6,7 @@ categories: [Ciência, Pesquisa]
 lang: pt
 ---
 
-Nesta postagem, eu trago um resumo que elaborei sobre o Curso de Outono em Escrita Científica realizado nos dias 17, 18, 24 e 25 de abril de 2024 pelo professor [Dr. Valtencir Zucolotto](https://www.linkedin.com/in/valtencir-zucolotto-a0ab3596/)
+Nesta postagem, apresento uma síntese do Curso de Outono em Escrita Científica realizado nos dias 17, 18, 24 e 25 de abril de 2024 pelo professor [Dr. Valtencir Zucolotto](https://www.linkedin.com/in/valtencir-zucolotto-a0ab3596/).
 
 Valtencir Zucolotto é professor titular do Instituto de física da USP de São Carlos, possui doutorado em Ciência e Engenharia de Materiais pela Universidade de São Paulo (2003) e coordena o grupo de pesquisa de Nanomedicina e Nanotoxicologia com aplicação nas áreas da saúde e do agronegócio. Zuzolotto foi professor Visitante na Universidade Joseph Fourier, Grenoble, França, em 2010. Atualmente, ele desenvolve e ministra cursos em Escrita Científica, já publicou mais de 128 artigos em revistas internacionais e 8 capítulos de livros.
 
@@ -18,11 +18,11 @@ A seguir, apresento as principais informações do curso em forma de bullet poin
 
 ## Características e importância do cientista
 
--   Com os resultados das pesquisas, o cientista pode ajudar a população e o desenvolvimento de um país;
+-   O cientista pode ajudar a população e o desenvolvimento científico e tecnológico de um país a partir dos resultados das pesquisas;
 
 -   Entre as principais e boas características de um cientista estão a criatividade e a curiosidade;
 
--   O importante é fazer ciência de alto impacto, e não focar em artigos de alto impacto;
+-   O cientista considera a importância de fazer ciência de alto impacto, e não foca em artigos de alto impacto;
 
 -   A ciência de alto impacto depende de grandes ideias;
 
@@ -52,21 +52,21 @@ A seguir, apresento as principais informações do curso em forma de bullet poin
 
 ## Por que publicar?
 
--   A partir do método científico ordenado pela lógica e implementação da pesquisa, nós temos um avanço científico e tecnológico na área.
+-   A partir do método científico ordenado pela lógica e implementação da pesquisa, nós temos um avanço científico e tecnológico na área;
 
--   Os cientistas procuram avanços nos artigos científicos internacionais.
+-   Os cientistas procuram avanços nos artigos científicos internacionais;
 
 -   A atividade fim do cientista não é publicar artigo, é trazer avanços para área, o artigo é apenas o veículo.
 
 ## **Características da escrita científica**
 
--   Audiência: texto dirigido para quem vai ler seu artigo. Decidir se a revista será ampla ou específica.
+-   Audiência: pessoa que vai ler o texto do seu artigo. Você deve decidir se a revista a qual seu artigo será publicado é ampla ou específica;
 
--   Clareza e coesão: o texto científico deve ser claro. Passar a mensagem científica de maneira mais rápida para o leitor (concisão).
+-   Clareza e coesão: o texto científico deve ser claro e passar a mensagem científica de maneira mais rápida para o leitor (concisão);
 
--   Citações e referências.
+-   Citações e referências;
 
--   Não tem espaço para suspense.
+-   Não deve ter espaço para suspense.
 
 ## **Estrutura de um artigo científico**
 
