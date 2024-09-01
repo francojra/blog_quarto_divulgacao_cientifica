@@ -1,5 +1,5 @@
 ---
-title: "Resumos de artigos científicos"
+title: "Artigos científicos"
 listing:
   contents: posts-resumos
   sort: "date desc"
