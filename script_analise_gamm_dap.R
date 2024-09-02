@@ -167,3 +167,29 @@ plot_dap_alt <- ggplot(dados_eco, aes(x = DAP, y = altura)) +
         axis.text = element_text(color = "black", size = 18),
         legend.position = "none")
 plot_dap_alt
+
+plot_dap_ram <- ggplot(dados_eco, aes(x = DAP, y = n_ramos)) +
+ geom_point(color = "black", size = 4.5) +
+  geom_smooth(method = 'lm', formula = 'y ~ x', 
+              color = "black", size = 1.5, se = F) +
+  # labs(x = "Número de plântulas", 
+  #      y = "Diâmetro médio do caule (cm)") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5),
+        axis.title = element_text(size = 20,color = "black"),
+        axis.text = element_text(color = "black", size = 18),
+        legend.position = "none")
+plot_dap_ram
+
+plot_dap_das <- ggplot(dados_eco, aes(x = DAP, y = das)) +
+ geom_point(color = "black", size = 4.5) +
+  geom_smooth(method = 'lm', formula = 'y ~ x', 
+              color = "black", size = 1.5, se = F) +
+  # labs(x = "Número de plântulas", 
+  #      y = "Diâmetro médio do caule (cm)") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5),
+        axis.title = element_text(size = 20,color = "black"),
+        axis.text = element_text(color = "black", size = 18),
+        legend.position = "none")
+plot_dap_das
