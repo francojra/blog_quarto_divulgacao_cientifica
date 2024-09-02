@@ -82,6 +82,7 @@ summary(mod_gamm_dap$gam)
 summary(mod_gamm_dap1$gam) 
 summary(mod_gamm_dap2$gam) 
 summary(mod_gamm_dap3$gam) 
+summary(mod_gamm_dap4$gam)
 
 # Diagnósticos do modelo -------------------------------------------------------------------------------------------------------------------
 
@@ -137,8 +138,24 @@ tab_model(mod_gamm_dap$gam,
 
 round(model_performance(mod_gamm_dap), 3)
 
+# Gráficos ---------------------------------------------------------------------------------------------------------------------------------
 
-ggplot(dados_eco, aes(x = DAP, y = luminosidade)) +
+plot_dap_plant <- ggplot(dados_eco, aes(x = DAP, y = n_plantulas)) +
+ geom_point(color = "black", size = 4.5) +
+  geom_smooth(method = 'lm', formula = 'y ~ x', 
+              color = "black", size = 1.5, se = F) +
+  labs(y = "Número de plântulas", 
+        x = "Diâmetro de árvores (cm)") +
+  theme_minimal() +
+  theme(plot.title = element_text(hjust = 0.5),
+        axis.title = element_text(size = 20,color = "black"),
+        axis.text = element_text(color = "black", size = 18),
+        legend.position = "none")
+plot_dap_plant
+
+## Gráficos para material suplementar
+
+plot_dap_alt <- ggplot(dados_eco, aes(x = DAP, y = altura)) +
  geom_point(color = "black", size = 4.5) +
   geom_smooth(method = 'lm', formula = 'y ~ x', 
               color = "black", size = 1.5, se = F) +
@@ -149,15 +166,4 @@ ggplot(dados_eco, aes(x = DAP, y = luminosidade)) +
         axis.title = element_text(size = 20,color = "black"),
         axis.text = element_text(color = "black", size = 18),
         legend.position = "none")
-
-ggplot(dados_eco, aes(x = DAP, y = das)) +
- geom_point(color = "black", size = 4.5) +
-  geom_smooth(method = 'lm', formula = 'y ~ x', 
-              color = "black", size = 1.5, se = F) +
-  # labs(x = "Número de plântulas", 
-  #      y = "Diâmetro médio do caule (cm)") +
-  theme_minimal() +
-  theme(plot.title = element_text(hjust = 0.5),
-        axis.title = element_text(size = 20,color = "black"),
-        axis.text = element_text(color = "black", size = 18),
-        legend.position = "none")
+plot_dap_alt
